@@ -1,0 +1,25 @@
+body{
+    font-family: 'Noto Sans Thai';
+}
+section#title{
+    font-size: large;
+}
+#title #job{
+    color: #09ae46;
+    margin-top: 1%;
+}
+h4{
+    color: #09ae46;
+    margin-bottom: 1%;
+    margin-top: 3%;
+    font-size: 16px;
+}
+h5{
+    color:#1d8eaa;
+    margin-top: 1%;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+p{
+    margin: 0;
+}
